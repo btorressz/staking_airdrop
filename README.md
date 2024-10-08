@@ -15,4 +15,7 @@ This project implements a **staking-based airdrop system** on the Solana blockch
 - **SPL Tokens**: Solana’s token standard used for creating and managing fungible and non-fungible tokens.
 - **Solana Playground**: A web-based environment to test and run Solana programs interactively.
 
+  ## License
+  This Project is under the **MIT LICENSE**
+
   
