@@ -2,6 +2,8 @@
 
 This project implements a **staking-based airdrop system** on the Solana blockchain using the **Anchor framework**. Users can stake tokens to earn additional token rewards and gain access to premium features. The staking system encourages long-term commitment and aligns user incentives with the success of the platform.
 
+devnet:(https://explorer.solana.com/address/7jnHKJjgLdHu2uNnx26fw2BoEFm2caH3bbgq9DGe9MN9?cluster=devnet)
+
 ## Features
 
 - **Token Staking**: Users can lock up tokens for a predefined period to receive higher allocations in airdrops.
